@@ -1,0 +1,14 @@
+{
+  "name": "clase-tt20",
+  "version": "1.0.0",
+  "description": "Clase con muchos chico y chicas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexis \u001b[A\u001b[BCoria",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
